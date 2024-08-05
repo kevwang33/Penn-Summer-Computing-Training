@@ -5,7 +5,7 @@ This training goes over some computing basics that may be useful for undergradua
 ## 1. Basic command line and bash 
 Basics of interacting with a terminal, its files and improving the experience of those interactions by modifying your environments. 
 
-## 2. SSH / SCP 
+## 2. SSH / SCP, hello 
 The basics of interacting with remote terminals - connecting and file manipulation. 
 
 When the training is conducted, sessions 1 and 2 are taught together. 
